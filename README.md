@@ -1,4 +1,3 @@
 # tp-abc-git-a-deux
-Travial collaborative
 
-1ère modification groupe test
+Bienvenue dans le dépôt de Krn369.
