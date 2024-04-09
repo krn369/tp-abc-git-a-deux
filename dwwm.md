@@ -31,5 +31,4 @@ CP-2571 - Développer la partie back-end application web ou web mobile en intég
 
 #  liste des métiers accessibles (au moins 5 métiers par formation, uniquement les intitulés)
 
-Développeur web - Développeur web front-end - Développeur web back-end - Developpeur web full-stack - Intégrateur web - Développeur web mobile 
-- Développemeur d'applications web distribuées
+Développeur web - Développeur web front-end - Développeur web back-end - Developpeur web full-stack - Intégrateur web - Développeur web mobile - Développemeur d'applications web distribuées
