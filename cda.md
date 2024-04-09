@@ -38,3 +38,6 @@ https://www.fagerh.fr/formations-qualifiantes/concepteur-developpeur-dapplicatio
 CP-2567 - Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité
 CP-2568 - Concevoir et développer la persistance des données en intégrant les recommandations de sécurité
 CP-2569 - Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurite
+
+#  liste des métiers accessibles (au moins 5 métiers par formation, uniquement les intitulés)
+Concepteur développeur / d'applications informatiques - Développeur d'applications / informatique - Développeur web / full-stack - Développeur d'applications mobiles - Développeur en recherche et développement
